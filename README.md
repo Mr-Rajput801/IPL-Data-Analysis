@@ -8,7 +8,7 @@
 - As a sports analysts, find out the most successful teams, players and factors contributing win or loss of a team.
 - Suggest teams or players a company should endorse for its products.
 
-> Here is the Dataset: <a href = "https://www.kaggle.com/datasets/hiimanshuagarwal/ipl-dataset-2008-2020">Sports Dataset</a>
+> Here is the Dataset: <a href = "https://github.com/Mr-Rajput801/IPL-Data-Analysis/tree/main/datasets">Sports Dataset</a>
 
 
 <br><br>
@@ -26,14 +26,14 @@
 
 ## ✍️ Authors
 
-- [Ashish Rajput](https://github.com/himanshu-03)
+- [Ashish Rajput](https://github.com/Mr-Rajput801)
 
 <br>
 
 ## 🔗 Links
 
 
-<a href='https://colab.research.google.com/drive/1PGSKtiJcZPfoJvgD2vnLpKWf9_y5lAih?usp=sharing' target="_blank"><img alt='Google Colab' src='https://img.shields.io/badge/Google_Colab-100000?style=for-the-badge&logo=Google Colab&logoColor=FFA200&labelColor=000000&color=FFFFFF'/></a>
+<a href='https://colab.research.google.com/drive/1kmXmcPO43Fc5_gGJs5b3dRZnmhv4y_Pg' target="_blank"><img alt='Google Colab' src='https://img.shields.io/badge/Google_Colab-100000?style=for-the-badge&logo=Google Colab&logoColor=FFA200&labelColor=000000&color=FFFFFF'/></a>
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
